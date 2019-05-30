@@ -77,3 +77,20 @@ p{
 .time-table-date{
     text-align: center;
 }
+
+.disable{
+    background-color: dimgray !important;
+}
+
+.disable:hover{
+    background-color: orange !important;
+    cursor : pointer;
+}
+
+#tblTeamRnk{
+    display: none;
+}
+
+.roundResults{
+    text-decoration: underline;
+}
